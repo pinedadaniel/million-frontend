@@ -8,7 +8,7 @@ First, install dependency:
 npm install
 ```
 
-First, run project:
+second, run project:
 
 ```bash
 npm run dev

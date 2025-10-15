@@ -8,7 +8,7 @@ export default function LenisSmoothScroll() {
   useEffect(() => {
       setTimeout(() => {
           setIsMounted(true);
-      }, 1000)
+      }, 2000)
   }, []);
 
   useLenis();

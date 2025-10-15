@@ -1,0 +1,91 @@
+"use client";
+
+
+const defaultMenuItems = [
+  {
+    href: "#home",
+    caption: "Home",
+    icon: "ph ph-house-simple",
+  },
+  {
+    href: "#explorer",
+    caption: "Explore",
+    icon: "ph ph-squares-four",
+  },
+  {
+    href: "#sold",
+    caption: "Sold",
+    icon: "ph ph-shopping-bag",
+  },
+];
+
+import { useEffect, useState } from "react";
+
+export default function Header({
+  menuItems = defaultMenuItems,
+}: {
+  menuItems?: { href: string; caption: string; icon: string }[];
+}) {
+  const [activeSection, setActiveSection] = useState(
+    menuItems[0].href.replace("#", "")
+  );
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveSection(entry.target.id);
+          }
+        });
+      },
+      { rootMargin: "-50% 0px" }
+    );
+
+    setTimeout(() => {
+      menuItems.forEach((elm) => {
+        const element = document.querySelector(elm.href);
+        if (element) observer.observe(element);
+      });
+    });
+    return () => observer.disconnect();
+  }, [menuItems]);
+
+  const handleClick = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
+    e.preventDefault();
+    const targetElement = document.querySelector<HTMLElement>(id);
+    targetElement?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
+  return (
+    <header
+      id="header"
+      className="header d-flex justify-content-center loading__fade fade-in"
+      data-duration="1.2"
+      data-delay="300"
+    >
+      <div className="header__navigation d-flex justify-content-start">
+        <nav id="menu" className="menu">
+          <ul className="menu__list d-flex justify-content-start">
+            {menuItems.map((item) => (
+              <li key={item.href} className="menu__item">
+                <a
+                  onClick={(e) => handleClick(e, item.href)}
+                  className={
+                    activeSection == item.href.replace("#", "")
+                      ? "menu__link btn active"
+                      : "menu__link btn"
+                  }
+                  href={item.href}
+                >
+                  <span className="menu__caption">{item.caption}</span>
+                  <i className={item.icon} />
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+  );
+}

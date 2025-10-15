@@ -1,0 +1,230 @@
+[
+  {
+
+    "name": "Azure Infinity Penthouse",
+    "address": "Fisher Island",
+    "price": 24500000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/ebe8832d-09f7-4d8e-9805-001a5aafa812.jpg?v=984",
+    "description": "Stunning oceanfront penthouse with panoramic views of Biscayne Bay. Features 4 bedrooms, 5 bathrooms, private elevator, marble floors, and a wraparound terrace with infinity pool.",
+    "sold": false,
+    "createdAt": "2024-08-15T14:22:30.179Z",
+    "updatedAt": "2024-12-10T09:45:12.234Z",
+    "ownerId": "owner001"
+  },
+  {
+
+    "name": "Emerald Bay Estate",
+    "address": "Bal Harbour",
+    "price": 8900000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/1b88f387-852d-41ef-a3d6-e4cb70b0cb5c.jpg?v=544",
+    "description": "Luxurious waterfront estate on exclusive Star Island. Boasts 6 bedrooms, 7 bathrooms, chef's kitchen, wine cellar, private dock, and lush tropical landscaping with pool and spa.",
+    "sold": false,
+    "createdAt": "2024-09-03T11:18:45.892Z",
+    "updatedAt": "2024-11-28T16:33:27.567Z",
+    "ownerId": "owner002"
+  },
+  {
+
+    "name": "Platinum Skyline Tower",
+    "address": "Sunny Isles",
+    "price": 26000000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/6b7ddb06-47b0-46ee-9c9c-0b38ed67a6be.jpg?v=302",
+    "description": "Modern architectural masterpiece in Coral Gables. Features 5 bedrooms, 6 bathrooms, floor-to-ceiling windows, smart home technology, rooftop terrace, and resort-style amenities.",
+    "sold": false,
+    "createdAt": "2024-07-22T08:55:12.445Z",
+    "updatedAt": "2025-01-05T13:21:48.891Z",
+    "ownerId": "owner003"
+  },
+  {
+
+    "name": "Ocean Pearl Villa",
+    "address": "South Beach",
+    "price": 12750000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/483c6781-54b3-41de-b598-df1a70645087.jpg?v=819",
+    "description": "Elegant Mediterranean villa in prestigious Pinecrest. Offers 7 bedrooms, 8 bathrooms, grand foyer, gourmet kitchen, library, tennis court, and meticulously manicured gardens.",
+    "sold": false,
+    "createdAt": "2024-10-11T19:37:28.678Z",
+    "updatedAt": "2024-12-22T07:14:55.123Z",
+    "ownerId": "owner001"
+  },
+  {
+
+    "name": "Crystal Waters Residence",
+    "address": "Bay Harbor Islands",
+    "price": 5200000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/dc8e7f4a-d3d7-471a-9b04-b6b0e5f30c48.jpg?v=194",
+    "description": "Ultra-modern condo in the heart of Brickell. Features 3 bedrooms, 4 bathrooms, Italian kitchen, floor-to-ceiling glass walls, private balcony with city and bay views.",
+    "sold": false,
+    "createdAt": "2024-06-30T15:42:17.334Z",
+    "updatedAt": "2024-11-15T20:58:39.776Z",
+    "ownerId": "owner004"
+  },
+  {
+
+    "name": "Golden Palms Mansion",
+    "address": "Coconut Grove",
+    "price": 15400000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/f9ce291e-88b5-45e8-8c0b-492a9a8fc761.jpg?v=880",
+    "description": "Spectacular beachfront mansion in Golden Beach. Includes 8 bedrooms, 10 bathrooms, grand ballroom, home theater, gym, spa, private beach access, and guest house.",
+    "sold": false,
+    "createdAt": "2024-09-18T12:29:03.556Z",
+    "updatedAt": "2025-01-12T11:07:22.445Z",
+    "ownerId": "owner002"
+  },
+  {
+
+    "name": "Diamond Crest Penthouse",
+    "address": "Edgewater",
+    "price": 22800000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/350891a4-8192-4da3-abed-000ce8ca024b.jpg?v=80",
+    "description": "Sophisticated high-rise residence in Aventura. Boasts 4 bedrooms, 5 bathrooms, marble finishes, gourmet kitchen, wraparound balcony, and access to world-class amenities.",
+    "sold": false,
+    "createdAt": "2024-05-14T09:16:41.789Z",
+    "updatedAt": "2024-10-28T18:44:16.223Z",
+    "ownerId": "owner005"
+  },
+  {
+
+    "name": "Sapphire Shores Penthouse",
+    "address": "Bal Harbour",
+    "price": 7300000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/a7b9c2d1-4e5f-6789-abc0-123456789def.jpg?v=445",
+    "description": "Exclusive Fisher Island penthouse with unobstructed ocean views. Features 5 bedrooms, 6 bathrooms, private rooftop terrace, marble bathrooms, and access to private beach club.",
+    "sold": true,
+    "createdAt": "2024-11-02T16:51:25.112Z",
+    "updatedAt": "2024-12-30T14:36:08.667Z",
+    "ownerId": "owner003"
+  },
+  {
+
+    "name": "Sunset Paradise Estate",
+    "address": "Sunny Isles",
+    "price": 18900000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://static.millionluxury.com/spinfile/Spin/Data/Estate/IMG/c5d6e7f8-9012-3456-7890-abcdef123456.jpg?v=889",
+    "description": "Magnificent Coconut Grove estate surrounded by lush tropical gardens. Offers 6 bedrooms, 7 bathrooms, grand staircase, wine room, pool pavilion, and private marina access.",
+    "sold": true,
+    "createdAt": "2024-08-07T13:33:19.445Z",
+    "updatedAt": "2025-01-08T10:22:44.889Z",
+    "ownerId": "owner001"
+  },
+  {
+
+    "name": "Miami Breeze Waterfront",
+    "address": "South Beach",
+    "price": 11200000,
+    "image": "",
+    "description": "Contemporary waterfront masterpiece in Bay Harbor Islands. Features 4 bedrooms, 5 bathrooms, open-concept design, infinity pool, private dock, and stunning sunset views.",
+    "sold": true,
+    "createdAt": "2024-04-25T10:08:52.223Z",
+    "updatedAt": "2024-09-12T15:17:33.556Z",
+    "ownerId": "owner004"
+  },
+  {
+
+    "name": "Royal Oaks Mansion",
+    "address": "Coconut Grove",
+    "price": 19200000,
+    "image": "",
+    "description": "Majestic estate with private tennis court and yacht dock. Features 9 bedrooms, 11 bathrooms, grand ballroom, wine cellar, spa, and panoramic bay views.",
+    "sold": true,
+    "createdAt": "2024-03-12T08:44:15.667Z",
+    "updatedAt": "2024-10-18T12:29:33.445Z",
+    "ownerId": "owner001"
+  },
+  {
+
+    "name": "Venetian Dreams Palace",
+    "address": "Fisher Island",
+    "price": 23700000,
+    "image": "",
+    "description": "Opulent waterfront palace with Italian marble throughout. Includes 7 bedrooms, 9 bathrooms, private elevator, infinity pool, and exclusive beach access.",
+    "sold": true,
+    "createdAt": "2024-06-08T16:33:22.889Z",
+    "updatedAt": "2024-12-05T14:17:44.223Z",
+    "ownerId": "owner002"
+  },
+  {
+
+    "name": "Starlight Towers Penthouse",
+    "address": "Sunny Isles",
+    "price": 21400000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/7-West-Eleventh-15.1M.jpg&width=1204&height=840",
+    "description": "Ultra-luxury penthouse with 360-degree views. Boasts 6 bedrooms, 8 bathrooms, private rooftop pool, smart home automation, and helicopter landing pad.",
+    "sold": true,
+    "createdAt": "2024-01-28T11:55:37.112Z",
+    "updatedAt": "2024-11-22T09:41:18.556Z",
+    "ownerId": "owner003"
+  },
+  {
+
+    "name": "Coral Reef Sanctuary",
+    "address": "South Beach",
+    "price": 4800000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/6-Surf-Club-15.8M.jpg&width=1204&height=840",
+    "description": "Boutique oceanfront condo with private beach cabana. Features 3 bedrooms, 4 bathrooms, gourmet kitchen, marble finishes, and stunning sunrise views.",
+    "sold": true,
+    "createdAt": "2024-05-19T13:22:48.334Z",
+    "updatedAt": "2024-09-30T17:55:12.778Z",
+    "ownerId": "owner004"
+  },
+  {
+
+    "name": "Moonlight Bay Estate",
+    "address": "Bay Harbor Islands",
+    "price": 13600000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/5-St-Regis-Brickell-18.6M.jpg&width=1204&height=840",
+    "description": "Sophisticated waterfront estate with private marina. Offers 5 bedrooms, 7 bathrooms, wine tasting room, gym, spa, and tropical outdoor entertainment area.",
+    "sold": true,
+    "createdAt": "2024-02-14T07:18:29.445Z",
+    "updatedAt": "2024-08-27T20:33:55.667Z",
+    "ownerId": "owner005"
+  },
+  {
+
+    "name": "Prestige Point Villa",
+    "address": "Bal Harbour",
+    "price": 16900000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/3-Perigon-21.7M.jpg&width=1204&height=840",
+    "description": "Architectural masterpiece with panoramic ocean views. Features 6 bedrooms, 8 bathrooms, infinity pool, private beach access, and world-class amenities.",
+    "sold": false,
+    "createdAt": "2024-07-03T15:47:11.223Z",
+    "updatedAt": "2024-12-15T11:28:44.889Z",
+    "ownerId": "owner001"
+  },
+  {
+
+    "name": "Serenity Cove Penthouse",
+    "address": "Coconut Grove",
+    "price": 7500000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/2-9520-W-Broadview-21.9M.jpg&width=1204&height=840",
+    "description": "Tranquil penthouse surrounded by lush greenery. Includes 4 bedrooms, 5 bathrooms, private terrace garden, meditation room, and marina access.",
+    "sold": false,
+    "createdAt": "2024-09-25T12:14:56.778Z",
+    "updatedAt": "2025-01-03T08:52:17.334Z",
+    "ownerId": "owner002"
+  },
+  {
+
+    "name": "Imperial Heights Tower",
+    "address": "Sunny Isles",
+    "price": 9800000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/4-Rivage-24.5M.jpg&width=1204&height=840",
+    "description": "Luxurious high-rise with resort-style amenities. Features 4 bedrooms, 6 bathrooms, private pool deck, concierge service, and breathtaking ocean panoramas.",
+    "sold": false,
+    "createdAt": "2024-08-11T09:36:42.556Z",
+    "updatedAt": "2024-11-07T16:19:28.112Z",
+    "ownerId": "owner003"
+  },
+  {
+
+    "name": "Paradise Crest Mansion",
+    "address": "Fisher Island",
+    "price": 20300000,
+    "image": "https://cdn.millionluxury.com/image-resizing?image=https://azfd-prod.millionluxury.com/spinfile/wwwroot/dist-front/img/MainSite/5333-Collins-Ave-2101.jpg&width=1204&height=840",
+    "description": "Exclusive mansion with private golf course access. Boasts 8 bedrooms, 10 bathrooms, grand library, home theater, tennis court, and private helipad.",
+    "sold": false,
+    "createdAt": "2024-04-07T14:28:33.667Z",
+    "updatedAt": "2024-10-21T13:45:19.445Z",
+    "ownerId": "owner004"
+  }
+]
